@@ -4,6 +4,9 @@ As before, they are divided between pseudocode and practical tips.
 Good luck!
 
 ## Problem 1: NOAA climate data revisited
+### Starter code
+We have now added [a starter code](calculate_seasonal_temps.py) you can use to complete this exercise.
+
 ### Pseudocode
 For this problem we need to read in a data file, remove some "bad" values, and then calculate some average values using only parts of the contents of the file. The pseudocode for this case is below.
 
