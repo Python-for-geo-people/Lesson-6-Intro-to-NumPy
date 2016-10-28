@@ -220,8 +220,6 @@ There are many other useful `ndarray` methods, such as `x.min()`, `x.max()`, and
   1.3962634016
   ```
     
-## Next steps
-
-Now you can start practising using Numpy with real data files. Continue to [Exercise 6](https://classroom.github.com/assignment-invitations/91b6f2cfe199617bd94a971f467457be).
-
-Or, [go back to the lesson main page.](../README.md)
+## 
+**Next**: [Exercise 6: Analysing data using NumPy](https://classroom.github.com/assignment-invitations/91b6f2cfe199617bd94a971f467457be)<br/>
+**Home**: [Lesson 6 main page](https://github.com/Python-for-geo-people/Lesson-6-Intro-to-NumPy)<br/>
